@@ -1,6 +1,8 @@
 # Worklog
 A personal project for assistance in keeping and maintaining logs of activities (like studies, workouts, etc.)
+
 Live at: https://ggvamp001.pythonanywhere.com/
+
 Video demo: https://youtu.be/dHvPC4LVVco
 
 ## Description
